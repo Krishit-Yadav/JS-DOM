@@ -1,2 +1,2 @@
 # JS-DOM
-# My JavaScript DOM Practice
+My JavaScript DOM Practice
